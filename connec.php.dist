@@ -1,0 +1,5 @@
+<?php 
+// Copie et renomme en connec.php, puis change les valeurs des constantes 
+define("DSN", "mysql:host=localhost;dbname=kaamelott;charset=UTF8");
+define("USER", "user");
+define("PASS", "password");
